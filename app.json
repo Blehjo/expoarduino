@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "expo-arduino",
+    "slug": "expo-arduino",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "expo-arduino"
+}
